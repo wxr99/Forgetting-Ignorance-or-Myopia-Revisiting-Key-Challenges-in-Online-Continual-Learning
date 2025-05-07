@@ -1,5 +1,6 @@
 ## NeurIPS 2024: Forgetting, Ignorance or Myopia: Revisiting Key Challenges in Online Continual Learning
-
+### To run the code:
+Follow the sh file in config/gocl package.
 ### Please cite:   
 @inproceedings{xinrui2024forgetting,  
   title={Forgetting, ignorance or myopia: Revisiting key challenges in online continual learning},  
